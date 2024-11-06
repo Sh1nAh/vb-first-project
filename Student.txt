@@ -1,0 +1,16 @@
+Aung Kyaw Moe
+SID001
+56
+60
+Aye Aye Nu
+SID002
+67
+78
+Tun Tun
+SID003
+45
+39
+Su Su 
+SID004
+80
+67
